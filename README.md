@@ -9,3 +9,6 @@ The previously used vision document is superseed by the continous, changing viso
 ## Label Types
 Different labels are used to help organisiong the project i.deas.
 Inspect the describtions of the labels to understand there meaning
+
+## University theses
+If you are a student and are interesting in working on a project idea for your thesis, please do not hesitate to leave a comment on the issue and/or conntact people mentioned with that issue.
