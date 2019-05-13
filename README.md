@@ -32,4 +32,4 @@ If you are a student and are interesting in working on a project idea for your t
 
 ### GSoC and SAoC
 
-Many of the listed projects are suitable for the Google Summer of Code (GSoC) or Symmtry Autumn of Code (SAoC). Before this programs, we will tag some of the projects with "gsoc". This implies that we think these projects are well suited for the respective programs. This doesn't mean that non-tagged projects are necessarily a bad fit for a GSoC/SAoC. In doubt, ask on the respective issue or the GSoC/SAoC program admins.
+Many of the listed projects are suitable for the Google Summer of Code (GSoC) or Symmetry Autumn of Code (SAoC). Before this programs, we will tag some of the projects with "gsoc". This implies that we think these projects are well suited for the respective programs. This doesn't mean that non-tagged projects are necessarily a bad fit for a GSoC/SAoC. In doubt, ask on the respective issue or the GSoC/SAoC program admins.
