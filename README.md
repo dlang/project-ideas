@@ -17,9 +17,9 @@ Good Example: Improve DMD user experience on Windows (includes a list of issues)
 
 As projects are suggested by individual people, it's hard to judge how important they are to community. Hence, please vote on them via GitHub reactions as this helps us a lot in priotizing issues.
 
-## Vision projects
+## Leadership vision projects
 
-Projects that are marked with the "vision" labelled are vision projects of the D Language Foundation.
+Projects marked with the "leadership vision" label are vision projects of the D Language Foundation.
 These projects are seen as key projects to D's success by the leadership.
 
 ## Milestones
