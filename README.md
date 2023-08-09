@@ -1,4 +1,4 @@
-# D Project Idea repository
+# D Project Idea Repository
 This repository is a collection of ideas for projects that will enhance the D ecosystem. Anyone in the D community may submit an idea. Projects may be picked up by anyone looking to contribute to the D ecosystem, but some may be flagged as suitable for the annual Symmetry Autumn of Code (SAOC) or Google Summer of Code (GSOC). Anyone intending to apply to either event may find a suitable project here.
 
 There are two sets of projects:
