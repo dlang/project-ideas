@@ -3,7 +3,8 @@ This repository is a collection of ideas for projects that will enhance the D ec
 
 There are two sets of projects:
 
-1. A curated list that has been given the stamp of approval by the DLF. Projects in this set are deemed to align with the DLF's current goals for the language, the ecosystem, or the community. Projects in this category are described in documents that reside in one of the directories in this repository. Projects suitable for SAOC are under the `saoc` directory, and those for GSOC in the `gsoc` directory.
+1. A curated list that has been given the stamp of approval by the DLF. Projects in this set are deemed to align with the DLF's current goals for the language, the ecosystem, or the community. Projects in this category are described in documents that reside in the root directory of this repo.
+
 2. A mostly uncurated list of projects that have not yet received the blessing of the DLF. This does not mean the projects aren't worth doing, only that they may not align with the DLF's current goals, or they haven't yet been properly evaluated. Projects in this set that are found [in this repository's issue tracker](https://github.com/dlang/projects/issues). Projects sutiable for either SAOC or GSOC are tagged with a label indicating such.
 
 ## Submitting a project
