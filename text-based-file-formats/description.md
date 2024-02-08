@@ -17,7 +17,7 @@ extent them where necessary, and integrate them into phobos.
 
 XMLs and yamls are everywhere.
 Putting the user to jump through some hoops to get the code to use them is an obstacle to adoption.
-Having such a module integrated in the D standard library will increase the atractiviy of D as a language.
+Having such a module integrated in the D standard library will increase the attractivity of D as a language.
 
 ## Recommended skills
 
