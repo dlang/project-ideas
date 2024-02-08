@@ -24,7 +24,7 @@ Webpage design and implementation
 
 Students will learn how to design and implement a webpage.
 Students will get familiar with the structure of a standard library and with memory allocation techniques.
-Also, they will learn about the infrastrcture involved in building and testing production software.
+Also, they will learn about the infrastructure involved in building and testing production software.
 
 ## Point of contact
 
