@@ -1,3 +1,5 @@
+# Improve D Error Messages
+
 ## Description
 
 D's error messages are of sufficient quality to get by, however they are fairly uninspiring compared to what is available in other languages with similar aims (C++, Rust etc).
